@@ -1,16 +1,15 @@
-### Hi 很高兴在这里见到你，我做个自我介绍，我是一名正在上学的学生，梦想成为一名优秀的程序员，做一件伟大的事情。。。 👋😊
+## 嗨！我的朋友
+我是 HmyDm, 一个简简单单的程序员，就像我的简介一样。我对前端开发情有独钟，但也喜欢摆弄java
 
-<!--
-**HmyDm/HmyDm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 我的使命是为 "change the world!"
 
-Here are some ideas to get you started:
+🌱 目前，我正在深入研究......[暂时没想好怎么说，先不填]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 我希望与专注于社会影响的项目合作——**如果你正试图让世界变得更美好，那我就是你要找的人！**
+
+📫 通过3672332946@qq.com联系我，或者给我发送一只信鸽！ 
+
+🎨 不写代码的时候，我要么在某个角落里看看书，要么在享受美食。
+
+**记住，console.log('你好，世界!'); 就是你的牡蛎！**<br><br>
+ <img src="./1.png" alt="1" width="430" height="540" />
